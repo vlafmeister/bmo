@@ -28,7 +28,7 @@ So, what can I assistance you with today? Do you necessity a game to play or a l
 
 - 1 Clone this repo:
 ```
-git clone https://github.com/
+git clone https://github.com/vlafmeister/bmo
 ```
 - 2 unzip the archive
 ```
